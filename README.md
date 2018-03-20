@@ -3,9 +3,8 @@
 ## Install phantomjs
 Navigate over to the [phantomjs website](http://phantomjs.org/download.html "phantomjs download link") to the installation area.Download the zip file.
 
-  $ `bunzip2 phantomjs-x.x.x.tar.bz2`
-  
-  $ `tar xvf phantomjs-x.x.x.tar`
+  ⋅⋅* $ `bunzip2 phantomjs-x.x.x.tar.bz2`
+  ⋅⋅*$ `tar xvf phantomjs-x.x.x.tar`
   
   $ `sudo cp -r phantomjs-x.x.x/ /opt/`
   
