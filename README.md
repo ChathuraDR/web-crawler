@@ -7,7 +7,6 @@ Navigate over to the [phantomjs website](http://phantomjs.org/download.html "pha
   - $ `tar xvf phantomjs-x.x.x.tar`
   - $ `sudo cp -r phantomjs-x.x.x/ /opt/`
   - $ `cd /opt/phantomjs-x.x.x`
-  
   - $ `sudo ln -sf ``pwd``/bin/phantomjs /usr/local/bin/phantomjs`
 
 ## Install casperjs
